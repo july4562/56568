@@ -22,4 +22,5 @@ P2P下载平台：对于有下载经验的用户，Sukebei等种子分享平台�
 HTTPS加密协议：优质站点通常会启用HTTPS加密协议，确保用户的数据隐私和观看信息得到保护，避免信息泄露。
 
 无恶意广告：真正安全的站点不会强制跳转广告或要求用户下载插件，确保观看过程不受干扰。优质平台通常有良好的用户体验，不会让用户遇到烦人的广告。
-<span style="display:none;">[Canonical link](）</span>
+
+<span style="display:none;">[Canonical link](https://github.com/july4562/56568 ）</span>
